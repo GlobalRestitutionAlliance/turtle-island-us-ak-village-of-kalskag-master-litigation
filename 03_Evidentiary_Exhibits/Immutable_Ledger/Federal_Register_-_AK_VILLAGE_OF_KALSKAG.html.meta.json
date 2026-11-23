@@ -1,0 +1,17 @@
+{
+  "url": "https://www.federalregister.gov/documents/search?conditions%5Bterm%5D=AK+VILLAGE+OF+KALSKAG",
+  "final_url": "https://www.federalregister.gov/documents/search?conditions%5Bsearch_type_id%5D=3&conditions%5Bterm%5D=AK+VILLAGE+OF+KALSKAG",
+  "title": "Federal Register - AK VILLAGE OF KALSKAG",
+  "fetched_at": "2026-11-23T17:30:28.766242Z",
+  "http_status": 200,
+  "content_type": "text/html; charset=utf-8",
+  "bytes": 219236,
+  "sha256": "26a759452917ddc92961878b27ff725d8902e964e0a3668cca94cc4f32d1db1c",
+  "provenance": "direct-http-fetch",
+  "custodian": "GRA-evidence-harvester",
+  "capture_access": "PUBLIC_CAPTURE_UNAUTHENTICATED",
+  "legal_review_status": "PENDING_LEGAL_REVIEW",
+  "note": "Direct harvest capture; pending legal review/authentication.",
+  "substantive": true,
+  "quality_flag": "SUBSTANTIVE_CAPTURE_PENDING_REVIEW"
+}
